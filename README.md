@@ -2,7 +2,7 @@ The Horiseon website homepage has been modified to make the previous code more a
 Refactored HTML and CSS code will help to improve the site to be "semantically correct"
 
 
-Changes Made:
+## Changes Made
 
 -Non-Semantic code now follows semantic guidelines
 
