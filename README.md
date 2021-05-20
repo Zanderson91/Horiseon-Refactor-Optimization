@@ -1,5 +1,5 @@
 The Horiseon website homepage has been modified to make the previous code more accessible.
-Refactored HTML and CSS code will help to improve the site to be "semantically correct"
+Refactored HTML and CSS code will help to improve the site to be "semantically correct".
 
 
 ## Changes Made
@@ -40,4 +40,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+<<<<<<< HEAD
 [](./images/images/01-html-css-git-homework-demo.png)
+=======
+![](images/01-html-css-git-homework-demo.png)
+>>>>>>> d005841def0d23f94bcdf22749ecf1732e13cc7a
